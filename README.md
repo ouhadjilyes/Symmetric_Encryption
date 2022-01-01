@@ -21,5 +21,4 @@ Installation :
               $ python3 enc_dec.py
 
  - Screenshot of the Gui-version : 
-
-![Capture](https://user-images.githubusercontent.com/87667883/147860364-b6abdf1a-f823-44ab-b159-3e5d5b258cfe.PNG)
+        ![Capture](https://user-images.githubusercontent.com/87667883/147860364-b6abdf1a-f823-44ab-b159-3e5d5b258cfe.PNG)
