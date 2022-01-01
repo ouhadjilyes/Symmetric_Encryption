@@ -11,7 +11,7 @@ Installation :
               $ cd Symmetric_Encryption
               $ pip install -r requirements.txt
               
- - Now you can either the script where a gui is provided :
+ - Now you can either run the program with a gui provided :
  
               $ python3 zed-crypto.py
               
