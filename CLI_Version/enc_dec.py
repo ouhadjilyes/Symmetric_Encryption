@@ -3,8 +3,8 @@ import time
 
 
 # execute simple terminal commands
-#os.system("echo hello world")
-#os.system('ls')
+# os.system("echo hello world")
+# os.system('ls')
 
 process = input("Encypt or decrypt enter E/D : ")
 
