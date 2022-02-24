@@ -1,7 +1,7 @@
 # Symmetric_Encryption
 A symmetric encryption script that uses openssl and different ciphers (AES is the default) to encrypt files with a password .
 
-NOTE : This program Doesn't support Windows and can only be ran on Linux or MAC
+NOTE : This program Doesn't support Windows and can only be executed on Linux or MAC
 
 Installation :
  
